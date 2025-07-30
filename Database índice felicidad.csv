@@ -1,0 +1,701 @@
+country,year,happiness_score,Log_gdp_per_capita,social_support,life_expectancy,freedom_of_choice,generosity,perceptions_of_corruption,continent,Region,Type of country
+Uzbekistan,2018,6.1,0.72,1.58,0.61,0.72,0.33,0.26,Asia,Central and Eastern Europe,Developping country
+Cambodia,2018,4.43,0.55,1.09,0.46,0.7,0.26,0.07,Asia,Southeastern Asia,Developping country
+Norway,2018,7.59,1.46,1.58,0.86,0.69,0.29,0.34,Europe,Western Europe,Developped country
+Finland,2018,7.63,1.31,1.59,0.87,0.68,0.2,0.39,Europe,Western Europe,Developped country
+Denmark,2018,7.56,1.35,1.59,0.87,0.68,0.28,0.41,Europe,Western Europe,Developped country
+Iceland,2018,7.5,1.34,1.64,0.91,0.68,0.35,0.14,Europe,Western Europe,Developped country
+New Zealand,2018,7.32,1.27,1.6,0.88,0.67,0.37,0.39,Oceania,Australia and New Zealand,Developped country
+Switzerland,2018,7.49,1.42,1.55,0.93,0.66,0.26,0.36,Europe,Western Europe,Developped country
+Sweden,2018,7.31,1.36,1.5,0.91,0.66,0.29,0.38,Europe,Western Europe,Developped country
+Australia,2018,7.27,1.34,1.57,0.91,0.65,0.36,0.3,Oceania,Australia and New Zealand,Developped country
+Canada,2018,7.33,1.33,1.53,0.9,0.65,0.32,0.29,Americas,North America,Developped country
+Malta,2018,6.63,1.27,1.53,0.88,0.65,0.38,0.14,Europe,Western Europe,Developped country
+Netherlands,2018,7.44,1.36,1.49,0.88,0.64,0.33,0.3,Europe,Western Europe,Developped country
+Philippines,2018,5.52,0.78,1.31,0.51,0.64,0.12,0.11,Asia,Southeastern Asia,emerging country
+Thailand,2018,6.07,1.02,1.42,0.71,0.64,0.36,0.03,Asia,Southeastern Asia,emerging country
+Rwanda,2018,3.41,0.33,0.9,0.4,0.64,0.2,0.44,Africa,Sub-Saharan Africa,Developping country
+Luxembourg,2018,6.91,1.58,1.52,0.9,0.63,0.2,0.32,Europe,Western Europe,Developped country
+Slovenia,2018,5.95,1.22,1.51,0.86,0.63,0.16,0.05,Europe,Central and Eastern Europe,Developped country
+Costa Rica,2018,7.07,1.01,1.46,0.82,0.63,0.14,0.1,Americas,Latin America and Caribbean,Developping country
+Singapore,2018,6.34,1.53,1.45,1.01,0.63,0.26,0.46,Asia,Southeastern Asia,Developped country
+Uruguay,2018,6.38,1.09,1.46,0.77,0.63,0.13,0.16,Americas,Latin America and Caribbean,Developping country
+Laos,2018,4.62,0.72,1.03,0.44,0.63,0.23,0.17,Asia,Southeastern Asia,Developping country
+Austria,2018,7.14,1.34,1.5,0.89,0.62,0.24,0.22,Europe,Western Europe,Developped country
+Vietnam,2018,5.1,0.72,1.37,0.7,0.62,0.18,0.08,Asia,Southeastern Asia,Developping country
+Ireland,2018,6.98,1.45,1.58,0.88,0.61,0.31,0.31,Europe,Western Europe,Developped country
+Bolivia,2018,5.75,0.75,1.22,0.51,0.61,0.14,0.05,Americas,Latin America and Caribbean,Developping country
+Panama,2018,6.43,1.11,1.44,0.76,0.6,0.13,0.06,Americas,Latin America and Caribbean,Developping country
+Guatemala,2018,6.38,0.78,1.27,0.61,0.6,0.18,0.07,Americas,Latin America and Caribbean,Developping country
+China,2018,5.25,0.99,1.14,0.8,0.6,0.03,0.1,Asia,Eastern Asia,emerging country
+Germany,2018,6.97,1.34,1.47,0.86,0.59,0.27,0.28,Europe,Western Europe,Developped country
+Bahrain,2018,6.11,1.34,1.37,0.7,0.59,0.24,0.12,Asia,Middle East and Northern Africa,Developped country
+Sri Lanka,2018,4.47,0.92,1.31,0.67,0.59,0.31,0.05,Asia,Southern Asia,Developping country
+Belgium,2018,6.93,1.32,1.48,0.89,0.58,0.19,0.24,Europe,Western Europe,Developped country
+Mauritius,2018,5.89,1.09,1.39,0.68,0.58,0.25,0.05,Africa,Sub-Saharan Africa,Developping country
+Jamaica,2018,5.89,0.82,1.49,0.69,0.58,0.1,0.03,Americas,Latin America and Caribbean,Developping country
+Dominican Republic,2018,5.3,0.98,1.44,0.61,0.58,0.12,0.11,Americas,Latin America and Caribbean,Developping country
+Bangladesh,2018,4.5,0.53,0.85,0.58,0.58,0.15,0.14,Asia,Southern Asia,Developping country
+Myanmar,2018,4.31,0.68,1.17,0.43,0.58,0.6,0.18,Asia,Southeastern Asia,Developping country
+Argentina,2018,6.39,1.07,1.47,0.74,0.57,0.06,0.05,Americas,Latin America and Caribbean,Developping country
+Portugal,2018,5.41,1.19,1.43,0.88,0.56,0.06,0.02,Europe,Western Europe,Developped country
+Ecuador,2018,5.97,0.89,1.33,0.74,0.56,0.11,0.12,Americas,Latin America and Caribbean,Developping country
+Botswana,2018,3.59,1.02,1.17,0.42,0.56,0.04,0.09,Africa,Sub-Saharan Africa,Developping country
+United States,2018,6.89,1.4,1.47,0.82,0.55,0.29,0.13,Americas,North America,Developped country
+Estonia,2018,5.74,1.2,1.53,0.74,0.55,0.09,0.17,Europe,Central and Eastern Europe,Developped country
+Poland,2018,6.12,1.18,1.45,0.78,0.55,0.11,0.06,Europe,Central and Eastern Europe,Developped country
+Kuwait,2018,6.08,1.47,1.3,0.68,0.55,0.17,0.11,Asia,Middle East and Northern Africa,Developping country
+Japan,2018,5.92,1.29,1.46,0.99,0.55,0.08,0.15,Asia,Eastern Asia,Developped country
+Czech Republic,2018,6.71,1.23,1.49,0.85,0.54,0.06,0.03,Europe,Central and Eastern Europe,Developped country
+Kyrgyzstan,2018,5.13,0.53,1.42,0.59,0.54,0.28,0.04,Asia,Central and Eastern Europe,Developping country
+Paraguay,2018,5.68,0.84,1.52,0.62,0.54,0.16,0.07,Americas,Latin America and Caribbean,Developping country
+Indonesia,2018,5.09,0.9,1.22,0.52,0.54,0.48,0.02,Asia,Southeastern Asia,emerging country
+India,2018,4.19,0.72,0.75,0.49,0.54,0.17,0.09,Asia,Southern Asia,emerging country
+Israel,2018,6.81,1.3,1.56,0.88,0.53,0.35,0.27,Asia,Middle East and Northern Africa,Developped country
+Romania,2018,5.95,1.12,1.22,0.73,0.53,0.09,0,Europe,Central and Eastern Europe,Developped country
+Nicaragua,2018,6.14,0.67,1.32,0.7,0.53,0.21,0.13,Americas,Latin America and Caribbean,Developping country
+Colombia,2018,6.26,0.96,1.44,0.64,0.53,0.1,0.04,Americas,Latin America and Caribbean,Developping country
+Peru,2018,5.66,0.93,1.25,0.67,0.53,0.09,0.03,Americas,Latin America and Caribbean,Developping country
+Nepal,2018,4.88,0.43,1.23,0.54,0.53,0.3,0.08,Asia,Southern Asia,Developping country
+Mozambique,2018,4.42,0.2,0.9,0.17,0.53,0.21,0.16,Africa,Sub-Saharan Africa,Developping country
+Malawi,2018,3.59,0.19,0.54,0.31,0.53,0.21,0.08,Africa,Sub-Saharan Africa,Developping country
+France,2018,6.49,1.29,1.47,0.91,0.52,0.1,0.18,Europe,Western Europe,Developped country
+Hong Kong S.A.R. of China,2018,5.43,1.41,1.29,1.03,0.52,0.25,0.29,Asia,Eastern Asia,Developped country
+South Africa,2018,4.72,0.94,1.41,0.33,0.52,0.1,0.06,Africa,Sub-Saharan Africa,emerging country
+Namibia,2018,4.44,0.87,1.28,0.37,0.52,0.05,0.06,Africa,Sub-Saharan Africa,Developping country
+Saudi Arabia,2018,6.37,1.38,1.33,0.63,0.51,0.1,0.13,Asia,Middle East and Northern Africa,Developped country
+Libya,2018,5.57,0.99,1.35,0.55,0.5,0.12,0.15,Africa,Middle East and Northern Africa,Developping country
+Ghana,2018,4.66,0.59,0.9,0.34,0.5,0.21,0.03,Africa,Sub-Saharan Africa,Developping country
+Kenya,2018,4.41,0.49,1.05,0.45,0.5,0.35,0.06,Africa,Sub-Saharan Africa,Developping country
+Zambia,2018,4.38,0.56,1.05,0.3,0.5,0.22,0.08,Africa,Sub-Saharan Africa,Developping country
+Lebanon,2018,5.36,0.97,1.18,0.79,0.5,0.21,0.14,Asia,Middle East and Northern Africa,Developping country
+Brazil,2018,6.42,0.99,1.47,0.68,0.49,0.11,0.09,Americas,Latin America and Caribbean,emerging country
+Mexico,2018,6.49,1.04,1.25,0.76,0.48,0.07,0.1,Americas,Latin America and Caribbean,emerging country
+Tanzania,2018,3.3,0.46,0.99,0.38,0.48,0.27,0.1,Africa,Sub-Saharan Africa,Developping country
+Ivory Coast,2018,4.67,0.54,0.87,0.08,0.47,0.15,0.1,Africa,Sub-Saharan Africa,Developping country
+Jordan,2018,5.16,0.82,1.27,0.65,0.47,0.13,0.13,Asia,Middle East and Northern Africa,Developping country
+United Kingdom,2018,7.19,1.24,1.43,0.89,0.46,0.26,0.08,Europe,Western Europe,Developped country
+El Salvador,2018,6.17,0.81,1.23,0.64,0.46,0.07,0.08,Americas,Latin America and Caribbean,Developping country
+Honduras,2018,5.5,0.62,1.21,0.62,0.46,0.2,0.07,Americas,Latin America and Caribbean,Developping country
+Morocco,2018,5.25,0.78,0.8,0.67,0.46,0.03,0.07,Africa,Middle East and Northern Africa,Developping country
+Iran,2018,4.71,1.06,0.77,0.69,0.46,0.28,0.13,Asia,Middle East and Northern Africa,Developping country
+Nigeria,2018,5.16,0.69,1.17,0.05,0.46,0.2,0.03,Africa,Sub-Saharan Africa,Developping country
+Spain,2018,6.31,1.25,1.54,0.97,0.45,0.14,0.07,Europe,Western Europe,Developped country
+Kosovo,2018,5.66,0.86,1.23,0.58,0.45,0.27,0.02,Europe,Central and Eastern Europe,Developping country
+Kazakhstan,2018,5.79,1.14,1.52,0.63,0.45,0.15,0.12,Asia,Central and Eastern Europe,Developping country
+Cameroon,2018,4.98,0.54,0.89,0.18,0.45,0.18,0.04,Africa,Sub-Saharan Africa,Developping country
+Uganda,2018,4.16,0.32,1.09,0.24,0.45,0.26,0.06,Africa,Sub-Saharan Africa,Developping country
+Ethiopia,2018,4.35,0.31,0.95,0.39,0.45,0.22,0.15,Africa,Sub-Saharan Africa,Developping country
+Benin,2018,4.14,0.38,0.37,0.24,0.44,0.16,0.07,Africa,Sub-Saharan Africa,Developping country
+Chile,2018,6.48,1.13,1.33,0.81,0.43,0.2,0.06,Americas,Latin America and Caribbean,Developping country
+Azerbaijan,2018,5.2,1.02,1.16,0.6,0.43,0.03,0.18,Asia,Central and Eastern Europe,Developping country
+Togo,2018,4,0.26,0.47,0.25,0.43,0.16,0.1,Africa,Sub-Saharan Africa,Developping country
+Taiwan Province of China,2018,6.44,1.37,1.44,0.86,0.42,0.15,0.08,Asia,Eastern Asia,Developped country
+Cyprus,2018,5.76,1.23,1.19,0.91,0.42,0.2,0.04,Asia,Western Europe,Developped country
+Turkmenistan,2018,5.64,1.02,1.53,0.52,0.42,0.2,0.04,Asia,Central and Eastern Europe,Developping country
+Albania,2018,4.59,0.92,0.82,0.79,0.42,0.15,0.03,Europe,Central and Eastern Europe,Developping country
+Liberia,2018,3.5,0.08,0.86,0.27,0.42,0.21,0.03,Africa,Sub-Saharan Africa,Developping country
+Lesotho,2018,3.81,0.47,1.22,0.08,0.42,0.12,0.11,Africa,Sub-Saharan Africa,Developping country
+Senegal,2018,4.63,0.43,1.12,0.43,0.41,0.14,0.08,Africa,Sub-Saharan Africa,Developping country
+Zimbabwe,2018,3.69,0.36,1.09,0.25,0.41,0.13,0.1,Africa,Sub-Saharan Africa,Developping country
+Mongolia,2018,5.13,0.91,1.52,0.58,0.4,0.25,0.03,Asia,Eastern Asia,Developping country
+Russia,2018,5.81,1.15,1.48,0.6,0.4,0.07,0.03,Europe,Central and Eastern Europe,emerging country
+North Macedonia,2018,5.19,0.96,1.24,0.69,0.39,0.17,0.05,Europe,Central and Eastern Europe,Developping country
+Niger,2018,4.17,0.13,0.87,0.22,0.39,0.18,0.1,Africa,Sub-Saharan Africa,Developping country
+Guinea,2018,3.96,0.34,0.79,0.21,0.39,0.19,0.09,Africa,Sub-Saharan Africa,Developping country
+Croatia,2018,5.32,1.12,1.16,0.74,0.38,0.12,0.04,Europe,Central and Eastern Europe,Developped country
+Georgia,2018,4.34,0.85,0.59,0.64,0.38,0.04,0.22,Asia,Central and Eastern Europe,Developping country
+Mali,2018,4.45,0.37,1.23,0.15,0.37,0.14,0.06,Africa,Sub-Saharan Africa,Developping country
+Latvia,2018,5.93,1.15,1.45,0.67,0.36,0.09,0.07,Europe,Central and Eastern Europe,Developped country
+Malaysia,2018,6.32,1.16,1.26,0.67,0.36,0.31,0.06,Asia,Southeastern Asia,emerging country
+Bulgaria,2018,4.93,1.05,1.52,0.71,0.36,0.06,0.01,Europe,Central and Eastern Europe,Developping country
+Gabon,2018,4.76,1.04,1.16,0.4,0.36,0.03,0.05,Africa,Sub-Saharan Africa,Developping country
+Sierra Leone,2018,4.57,0.26,0.81,0,0.36,0.24,0.05,Africa,Sub-Saharan Africa,Developping country
+Lithuania,2018,5.95,1.2,1.53,0.72,0.35,0.03,0.01,Europe,Central and Eastern Europe,Developped country
+Slovakia,2018,6.17,1.21,1.54,0.78,0.35,0.12,0.01,Europe,Central and Eastern Europe,Developped country
+Pakistan,2018,5.47,0.65,0.81,0.42,0.33,0.22,0.11,Asia,Southern Asia,Developping country
+Turkey,2018,5.48,1.15,1.38,0.69,0.32,0.11,0.11,Asia,Middle East and Northern Africa,emerging country
+Belarus,2018,5.48,1.04,1.5,0.7,0.31,0.1,0.15,Europe,Central and Eastern Europe,Developping country
+Burkina Faso,2018,4.42,0.31,1.1,0.25,0.31,0.18,0.13,Africa,Sub-Saharan Africa,Developping country
+Egypt,2018,4.42,0.89,1.03,0.55,0.31,0.09,0.11,Africa,Middle East and Northern Africa,Developping country
+Iraq,2018,4.46,1.01,0.97,0.54,0.3,0.15,0.1,Asia,Middle East and Northern Africa,Developping country
+Serbia,2018,5.4,0.98,1.37,0.69,0.29,0.13,0.04,Europe,Central and Eastern Europe,Developping country
+Tajikistan,2018,5.2,0.47,1.17,0.6,0.29,0.19,0.03,Asia,Central and Eastern Europe,Developping country
+Italy,2018,6,1.26,1.5,0.95,0.28,0.14,0.03,Europe,Western Europe,Developped country
+Bosnia and Herzegovina,2018,5.13,0.92,1.08,0.76,0.28,0.22,0,Europe,Central and Eastern Europe,Developping country
+Tunisia,2018,4.59,0.9,0.91,0.69,0.27,0.04,0.06,Africa,Middle East and Northern Africa,Developping country
+Palestinian Territories,2018,4.74,0.64,1.22,0.6,0.27,0.09,0.08,Asia,Middle East and Northern Africa,Developping country
+Hungary,2018,5.62,1.17,1.4,0.73,0.26,0.06,0.02,Europe,Central and Eastern Europe,Developped country
+Montenegro,2018,5.35,1.02,1.28,0.73,0.26,0.11,0.08,Europe,Central and Eastern Europe,Developping country
+Armenia,2018,4.32,0.82,0.99,0.67,0.26,0.08,0.03,Asia,Central and Eastern Europe,Developping country
+South Korea,2018,5.88,1.27,1.2,0.96,0.24,0.18,0.05,Asia,Eastern Asia,Developped country
+Yemen,2018,3.36,0.44,1.07,0.34,0.24,0.08,0.06,Asia,Middle East and Northern Africa,Developping country
+Moldova,2018,5.64,0.66,1.3,0.62,0.23,0.17,0,Europe,Central and Eastern Europe,Developping country
+Madagascar,2018,3.77,0.26,0.91,0.4,0.22,0.16,0.05,Africa,Sub-Saharan Africa,Developping country
+Chad,2018,4.3,0.36,0.91,0.05,0.19,0.18,0.06,Africa,Sub-Saharan Africa,Developping country
+Ukraine,2018,4.1,0.79,1.41,0.61,0.16,0.19,0.01,Europe,Central and Eastern Europe,Developping country
+Greece,2018,5.36,1.15,1.2,0.88,0.13,0,0.04,Europe,Western Europe,Developped country
+Venezuela,2018,4.81,1,1.47,0.66,0.13,0.06,0.05,Americas,Latin America and Caribbean,Developping country
+Mauritania,2018,4.36,0.56,1.25,0.29,0.13,0.13,0.09,Africa,Sub-Saharan Africa,Developping country
+Afghanistan,2018,3.63,0.33,0.54,0.26,0.09,0.19,0.04,Asia,Southern Asia,Developping country
+Algeria,2018,5.3,0.98,1.15,0.69,0.08,0.06,0.14,Africa,Middle East and Northern Africa,Developping country
+Uzbekistan,2019,6.17,0.75,1.53,0.76,0.63,0.32,0.24,Asia,Central and Eastern Europe,Developping country
+Cambodia,2019,4.7,0.57,1.12,0.64,0.61,0.23,0.06,Asia,Southeastern Asia,Developping country
+Norway,2019,7.55,1.49,1.58,1.03,0.6,0.27,0.34,Europe,Western Europe,Developped country
+Finland,2019,7.77,1.34,1.59,0.99,0.6,0.15,0.39,Europe,Western Europe,Developped country
+Denmark,2019,7.6,1.38,1.57,1,0.59,0.25,0.41,Europe,Western Europe,Developped country
+Iceland,2019,7.49,1.38,1.62,1.03,0.59,0.35,0.12,Europe,Western Europe,Developped country
+New Zealand,2019,7.31,1.3,1.56,1.03,0.59,0.33,0.38,Oceania,Australia and New Zealand,Developped country
+Canada,2019,7.28,1.37,1.51,1.04,0.58,0.29,0.31,Americas,North America,Developped country
+Sweden,2019,7.34,1.39,1.49,1.01,0.57,0.27,0.37,Europe,Western Europe,Developped country
+Switzerland,2019,7.48,1.45,1.53,1.05,0.57,0.26,0.34,Europe,Western Europe,Developped country
+Malta,2019,6.73,1.3,1.52,1,0.56,0.38,0.15,Europe,Western Europe,Developped country
+Slovenia,2019,6.12,1.26,1.52,0.95,0.56,0.14,0.06,Europe,Central and Eastern Europe,Developped country
+Costa Rica,2019,7.17,1.03,1.44,0.96,0.56,0.14,0.09,Americas,Latin America and Caribbean,Developping country
+Philippines,2019,5.63,0.81,1.29,0.66,0.56,0.12,0.11,Asia,Southeastern Asia,emerging country
+Netherlands,2019,7.49,1.4,1.52,1,0.56,0.32,0.3,Europe,Western Europe,Developped country
+Australia,2019,7.23,1.37,1.55,1.04,0.56,0.33,0.29,Oceania,Australia and New Zealand,Developped country
+Thailand,2019,6.01,1.05,1.41,0.83,0.56,0.36,0.03,Asia,Southeastern Asia,emerging country
+Singapore,2019,6.26,1.57,1.46,1.14,0.56,0.27,0.45,Asia,Southeastern Asia,Developped country
+Rwanda,2019,3.33,0.36,0.71,0.61,0.56,0.22,0.41,Africa,Sub-Saharan Africa,Developping country
+Laos,2019,4.8,0.76,1.03,0.55,0.55,0.27,0.16,Asia,Southeastern Asia,Developping country
+Vietnam,2019,5.18,0.74,1.35,0.85,0.54,0.15,0.07,Asia,Southeastern Asia,Developping country
+Bahrain,2019,6.2,1.36,1.37,0.87,0.54,0.26,0.11,Asia,Middle East and Northern Africa,Developped country
+Guatemala,2019,6.44,0.8,1.27,0.75,0.54,0.18,0.08,Americas,Latin America and Caribbean,Developping country
+Austria,2019,7.25,1.38,1.48,1.02,0.53,0.24,0.23,Europe,Western Europe,Developped country
+Bangladesh,2019,4.46,0.56,0.93,0.72,0.53,0.17,0.14,Asia,Southern Asia,Developping country
+Luxembourg,2019,7.09,1.61,1.48,1.01,0.53,0.19,0.32,Europe,Western Europe,Developped country
+Myanmar,2019,4.36,0.71,1.18,0.56,0.53,0.57,0.17,Asia,Southeastern Asia,Developping country
+Uruguay,2019,6.29,1.12,1.47,0.89,0.52,0.13,0.15,Americas,Latin America and Caribbean,Developping country
+China,2019,5.19,1.03,1.13,0.89,0.52,0.06,0.1,Asia,Eastern Asia,emerging country
+Ireland,2019,7.02,1.5,1.55,1,0.52,0.3,0.31,Europe,Western Europe,Developped country
+Panama,2019,6.32,1.15,1.44,0.91,0.52,0.11,0.05,Americas,Latin America and Caribbean,Developping country
+Paraguay,2019,5.74,0.86,1.48,0.78,0.51,0.18,0.08,Americas,Latin America and Caribbean,Developping country
+Bolivia,2019,5.78,0.78,1.21,0.71,0.51,0.14,0.06,Americas,Latin America and Caribbean,Developping country
+Portugal,2019,5.69,1.22,1.43,1,0.51,0.05,0.03,Europe,Western Europe,Developped country
+Malaysia,2019,5.34,1.22,1.17,0.83,0.51,0.26,0.02,Asia,Southeastern Asia,emerging country
+Kyrgyzstan,2019,5.26,0.55,1.44,0.72,0.51,0.3,0.02,Asia,Central and Eastern Europe,Developping country
+Honduras,2019,5.86,0.64,1.24,0.83,0.51,0.25,0.08,Americas,Latin America and Caribbean,Developping country
+Ecuador,2019,6.03,0.91,1.31,0.87,0.5,0.13,0.09,Americas,Latin America and Caribbean,Developping country
+Mauritius,2019,5.89,1.12,1.4,0.8,0.5,0.22,0.06,Africa,Sub-Saharan Africa,Developping country
+India,2019,4.02,0.76,0.77,0.59,0.5,0.2,0.09,Asia,Southern Asia,emerging country
+Dominican Republic,2019,5.43,1.02,1.4,0.78,0.5,0.11,0.1,Americas,Latin America and Caribbean,Developping country
+Germany,2019,6.99,1.37,1.45,0.99,0.5,0.26,0.27,Europe,Western Europe,Developped country
+Estonia,2019,5.89,1.24,1.53,0.87,0.5,0.1,0.16,Europe,Central and Eastern Europe,Developped country
+Mozambique,2019,4.47,0.2,0.99,0.39,0.49,0.2,0.14,Africa,Sub-Saharan Africa,Developping country
+Kuwait,2019,6.02,1.5,1.32,0.81,0.49,0.14,0.1,Asia,Middle East and Northern Africa,Developping country
+Indonesia,2019,5.19,0.93,1.2,0.66,0.49,0.5,0.03,Asia,Southeastern Asia,emerging country
+Jamaica,2019,5.89,0.83,1.48,0.83,0.49,0.11,0.03,Americas,Latin America and Caribbean,Developping country
+Kosovo,2019,6.1,0.88,1.23,0.76,0.49,0.26,0.01,Europe,Central and Eastern Europe,Developping country
+Poland,2019,6.18,1.21,1.44,0.88,0.48,0.12,0.05,Europe,Central and Eastern Europe,Developped country
+Belgium,2019,6.92,1.36,1.5,0.99,0.47,0.16,0.21,Europe,Western Europe,Developped country
+Argentina,2019,6.09,1.09,1.43,0.88,0.47,0.07,0.05,Americas,Latin America and Caribbean,Developping country
+Colombia,2019,6.13,0.99,1.41,0.84,0.47,0.1,0.03,Americas,Latin America and Caribbean,Developping country
+Sri Lanka,2019,4.37,0.95,1.27,0.83,0.47,0.24,0.05,Asia,Southern Asia,Developping country
+Romania,2019,6.07,1.16,1.23,0.83,0.46,0.08,0.01,Europe,Central and Eastern Europe,Developped country
+Czech Republic,2019,6.85,1.27,1.49,0.92,0.46,0.05,0.04,Europe,Central and Eastern Europe,Developped country
+Peru,2019,5.7,0.96,1.27,0.85,0.46,0.08,0.03,Americas,Latin America and Caribbean,Developping country
+Botswana,2019,3.49,1.04,1.15,0.54,0.46,0.03,0.1,Africa,Sub-Saharan Africa,Developping country
+United States,2019,6.89,1.43,1.46,0.87,0.45,0.28,0.13,Americas,North America,Developped country
+United Kingdom,2019,7.05,1.33,1.54,1,0.45,0.35,0.28,Europe,Western Europe,Developped country
+Japan,2019,5.89,1.33,1.42,1.09,0.45,0.07,0.14,Asia,Eastern Asia,Developped country
+Malawi,2019,3.41,0.19,0.56,0.5,0.44,0.22,0.09,Africa,Sub-Saharan Africa,Developping country
+Hong Kong S.A.R. of China,2019,5.43,1.44,1.28,1.12,0.44,0.26,0.29,Asia,Eastern Asia,Developped country
+Saudi Arabia,2019,6.38,1.4,1.36,0.8,0.44,0.08,0.13,Asia,Middle East and Northern Africa,Developped country
+Nepal,2019,4.91,0.45,1.23,0.68,0.44,0.29,0.09,Asia,Southern Asia,Developping country
+France,2019,6.59,1.32,1.47,1.05,0.44,0.11,0.18,Europe,Western Europe,Developped country
+Nicaragua,2019,6.11,0.69,1.33,0.84,0.44,0.2,0.13,Americas,Latin America and Caribbean,Developping country
+Mexico,2019,6.6,1.07,1.32,0.86,0.43,0.07,0.07,Americas,Latin America and Caribbean,emerging country
+Kenya,2019,4.51,0.51,0.98,0.58,0.43,0.37,0.05,Africa,Sub-Saharan Africa,Developping country
+Zambia,2019,4.11,0.58,1.06,0.43,0.43,0.25,0.09,Africa,Sub-Saharan Africa,Developping country
+El Salvador,2019,6.25,0.79,1.24,0.79,0.43,0.09,0.07,Americas,Latin America and Caribbean,Developping country
+Nigeria,2019,5.27,0.7,1.11,0.25,0.43,0.22,0.04,Africa,Sub-Saharan Africa,Developping country
+Morocco,2019,5.21,0.8,0.78,0.78,0.42,0.04,0.08,Africa,Middle East and Northern Africa,Developping country
+Tanzania,2019,3.23,0.48,0.89,0.5,0.42,0.28,0.15,Africa,Sub-Saharan Africa,Developping country
+Libya,2019,5.53,1.04,1.3,0.67,0.42,0.13,0.15,Africa,Middle East and Northern Africa,Developping country
+Kazakhstan,2019,5.81,1.17,1.51,0.73,0.41,0.15,0.1,Asia,Central and Eastern Europe,Developping country
+Cyprus,2019,6.05,1.26,1.22,1.04,0.41,0.19,0.04,Asia,Western Europe,Developped country
+Namibia,2019,4.64,0.88,1.31,0.48,0.4,0.07,0.06,Africa,Sub-Saharan Africa,Developping country
+Turkmenistan,2019,5.25,1.05,1.54,0.66,0.39,0.24,0.03,Asia,Central and Eastern Europe,Developping country
+Brazil,2019,6.3,1,1.44,0.8,0.39,0.1,0.09,Americas,Latin America and Caribbean,emerging country
+Tajikistan,2019,5.47,0.49,1.1,0.72,0.39,0.23,0.14,Asia,Central and Eastern Europe,Developping country
+South Africa,2019,4.72,0.96,1.35,0.47,0.39,0.13,0.06,Africa,Sub-Saharan Africa,emerging country
+Jordan,2019,4.91,0.84,1.23,0.82,0.38,0.11,0.13,Asia,Middle East and Northern Africa,Developping country
+Albania,2019,4.72,0.95,0.85,0.87,0.38,0.18,0.03,Europe,Central and Eastern Europe,Developping country
+Cameroon,2019,5.04,0.55,0.91,0.33,0.38,0.19,0.04,Africa,Sub-Saharan Africa,Developping country
+Ghana,2019,5,0.61,0.87,0.49,0.38,0.25,0.04,Africa,Sub-Saharan Africa,Developping country
+Israel,2019,7.14,1.28,1.46,1.03,0.37,0.26,0.08,Asia,Middle East and Northern Africa,Developped country
+Liberia,2019,3.98,0.07,0.92,0.44,0.37,0.23,0.03,Africa,Sub-Saharan Africa,Developping country
+Spain,2019,6.35,1.29,1.48,1.06,0.36,0.15,0.08,Europe,Western Europe,Developped country
+Zimbabwe,2019,3.66,0.37,1.11,0.43,0.36,0.15,0.09,Africa,Sub-Saharan Africa,Developping country
+Lesotho,2019,3.8,0.49,1.17,0.17,0.36,0.11,0.09,Africa,Sub-Saharan Africa,Developping country
+Chile,2019,6.44,1.16,1.37,0.92,0.36,0.19,0.06,Americas,Latin America and Caribbean,Developping country
+Uganda,2019,4.19,0.33,1.07,0.44,0.36,0.25,0.06,Africa,Sub-Saharan Africa,Developping country
+Ivory Coast,2019,4.94,0.57,0.81,0.23,0.35,0.15,0.09,Africa,Sub-Saharan Africa,Developping country
+Taiwan Province of China,2019,6.45,1.37,1.43,0.91,0.35,0.24,0.1,Asia,Eastern Asia,Developped country
+Azerbaijan,2019,5.21,1.04,1.15,0.77,0.35,0.04,0.18,Asia,Central and Eastern Europe,Developping country
+Benin,2019,4.88,0.39,0.44,0.4,0.35,0.18,0.08,Africa,Sub-Saharan Africa,Developping country
+Georgia,2019,4.52,0.89,0.67,0.75,0.35,0.04,0.16,Asia,Central and Eastern Europe,Developping country
+North Macedonia,2019,5.27,0.98,1.29,0.84,0.35,0.19,0.03,Europe,Central and Eastern Europe,Developping country
+Ethiopia,2019,4.29,0.34,1.03,0.53,0.34,0.21,0.1,Africa,Sub-Saharan Africa,Developping country
+Slovakia,2019,6.2,1.25,1.5,0.88,0.33,0.12,0.01,Europe,Central and Eastern Europe,Developped country
+Russia,2019,5.65,1.18,1.45,0.73,0.33,0.08,0.03,Europe,Central and Eastern Europe,emerging country
+Guinea,2019,4.53,0.38,0.83,0.38,0.33,0.21,0.09,Africa,Sub-Saharan Africa,Developping country
+Mali,2019,4.39,0.39,1.11,0.31,0.33,0.15,0.05,Africa,Sub-Saharan Africa,Developping country
+Niger,2019,4.63,0.14,0.77,0.37,0.32,0.19,0.1,Africa,Sub-Saharan Africa,Developping country
+Mongolia,2019,5.29,0.95,1.53,0.67,0.32,0.24,0.04,Asia,Eastern Asia,Developping country
+Pakistan,2019,5.65,0.68,0.89,0.54,0.31,0.22,0.1,Asia,Southern Asia,Developping country
+Bulgaria,2019,5.01,1.09,1.51,0.82,0.31,0.08,0,Europe,Central and Eastern Europe,Developping country
+Sierra Leone,2019,4.37,0.27,0.84,0.24,0.31,0.25,0.05,Africa,Sub-Saharan Africa,Developping country
+Iran,2019,4.55,1.1,0.84,0.79,0.31,0.27,0.13,Asia,Middle East and Northern Africa,Developping country
+Croatia,2019,5.43,1.16,1.27,0.91,0.3,0.12,0.02,Europe,Central and Eastern Europe,Developped country
+Gabon,2019,4.8,1.06,1.18,0.57,0.3,0.04,0.06,Africa,Sub-Saharan Africa,Developping country
+Togo,2019,4.09,0.28,0.57,0.41,0.29,0.18,0.09,Africa,Sub-Saharan Africa,Developping country
+Senegal,2019,4.68,0.45,1.13,0.57,0.29,0.15,0.07,Africa,Sub-Saharan Africa,Developping country
+Lithuania,2019,6.15,1.24,1.52,0.82,0.29,0.04,0.04,Europe,Central and Eastern Europe,Developped country
+Armenia,2019,4.56,0.85,1.06,0.82,0.28,0.1,0.06,Asia,Central and Eastern Europe,Developping country
+Serbia,2019,5.6,1,1.38,0.85,0.28,0.14,0.04,Europe,Central and Eastern Europe,Developping country
+Latvia,2019,5.94,1.19,1.47,0.81,0.26,0.08,0.06,Europe,Central and Eastern Europe,Developped country
+Burkina Faso,2019,4.59,0.33,1.06,0.38,0.26,0.18,0.11,Africa,Sub-Saharan Africa,Developping country
+Moldova,2019,5.53,0.69,1.33,0.74,0.25,0.18,0,Europe,Central and Eastern Europe,Developping country
+Iraq,2019,4.44,1.04,0.98,0.57,0.24,0.15,0.09,Asia,Middle East and Northern Africa,Developping country
+Egypt,2019,4.17,0.91,1.04,0.64,0.24,0.08,0.07,Africa,Middle East and Northern Africa,Developping country
+Belarus,2019,5.32,1.07,1.47,0.79,0.24,0.09,0.14,Europe,Central and Eastern Europe,Developping country
+Italy,2019,6.22,1.29,1.49,1.04,0.23,0.16,0.03,Europe,Western Europe,Developped country
+Palestinian Territories,2019,4.7,0.66,1.25,0.67,0.23,0.1,0.07,Asia,Middle East and Northern Africa,Developping country
+Lebanon,2019,5.2,0.99,1.22,0.82,0.22,0.17,0.03,Asia,Middle East and Northern Africa,Developping country
+Bosnia and Herzegovina,2019,5.39,0.95,1.21,0.85,0.21,0.26,0.01,Europe,Central and Eastern Europe,Developping country
+Hungary,2019,5.76,1.2,1.41,0.83,0.2,0.08,0.02,Europe,Central and Eastern Europe,Developped country
+Montenegro,2019,5.52,1.05,1.36,0.87,0.2,0.14,0.08,Europe,Central and Eastern Europe,Developping country
+Turkey,2019,5.37,1.18,1.36,0.81,0.2,0.08,0.11,Asia,Middle East and Northern Africa,emerging country
+Ukraine,2019,4.33,0.82,1.39,0.74,0.18,0.19,0.01,Europe,Central and Eastern Europe,Developping country
+Chad,2019,4.35,0.35,0.77,0.19,0.17,0.2,0.08,Africa,Sub-Saharan Africa,Developping country
+Tunisia,2019,4.46,0.92,1,0.82,0.17,0.06,0.06,Africa,Middle East and Northern Africa,Developping country
+South Korea,2019,5.9,1.3,1.22,1.04,0.16,0.18,0.06,Asia,Eastern Asia,Developped country
+Venezuela,2019,4.71,0.96,1.43,0.81,0.15,0.06,0.05,Americas,Latin America and Caribbean,Developping country
+Madagascar,2019,3.93,0.27,0.92,0.56,0.15,0.17,0.04,Africa,Sub-Saharan Africa,Developping country
+Yemen,2019,3.38,0.29,1.16,0.46,0.14,0.11,0.08,Asia,Middle East and Northern Africa,Developping country
+Algeria,2019,5.21,1,1.16,0.79,0.09,0.07,0.11,Africa,Middle East and Northern Africa,Developping country
+Greece,2019,5.29,1.18,1.16,1,0.07,0,0.03,Europe,Western Europe,Developped country
+Mauritania,2019,4.49,0.57,1.17,0.49,0.07,0.11,0.09,Africa,Sub-Saharan Africa,Developping country
+Afghanistan,2019,3.2,0.35,0.52,0.36,0,0.16,0.03,Asia,Southern Asia,Developping country
+Uzbekistan,2020,6.26,0.7,0.93,0.72,0.98,0.25,0.5,Asia,Central and Eastern Europe,Developping country
+Cambodia,2020,4.85,0.54,0.77,0.59,0.96,0.05,0.82,Asia,Southeastern Asia,Developping country
+Norway,2020,7.49,1.42,0.95,1.01,0.96,0.14,0.26,Europe,Western Europe,Developped country
+Denmark,2020,7.65,1.33,0.96,0.98,0.95,0.07,0.17,Europe,Western Europe,Developped country
+Finland,2020,7.81,1.29,0.95,0.96,0.95,-0.06,0.2,Europe,Western Europe,Developped country
+Iceland,2020,7.5,1.33,0.98,1,0.95,0.25,0.71,Europe,Western Europe,Developped country
+Vietnam,2020,5.35,0.72,0.85,0.82,0.94,-0.1,0.8,Asia,Southeastern Asia,Developping country
+Sweden,2020,7.35,1.32,0.93,0.99,0.94,0.11,0.25,Europe,Western Europe,Developped country
+New Zealand,2020,7.3,1.24,0.95,1.01,0.94,0.19,0.22,Oceania,Australia and New Zealand,Developped country
+Slovenia,2020,6.36,1.21,0.94,0.93,0.94,-0.08,0.82,Europe,Central and Eastern Europe,Developped country
+Costa Rica,2020,7.12,0.98,0.9,0.94,0.94,-0.1,0.79,Americas,Latin America and Caribbean,Developping country
+Canada,2020,7.23,1.3,0.93,1.02,0.93,0.13,0.39,Americas,North America,Developped country
+Singapore,2020,6.38,1.52,0.91,1.14,0.93,0.03,0.11,Asia,Southeastern Asia,Developped country
+Malta,2020,6.77,1.25,0.93,0.97,0.93,0.22,0.66,Europe,Western Europe,Developped country
+Switzerland,2020,7.56,1.39,0.94,1.04,0.92,0.11,0.3,Europe,Western Europe,Developped country
+Australia,2020,7.22,1.31,0.95,1.02,0.92,0.19,0.42,Oceania,Australia and New Zealand,Developped country
+Philippines,2020,6.01,0.78,0.85,0.6,0.92,-0.11,0.73,Asia,Southeastern Asia,emerging country
+Netherlands,2020,7.45,1.34,0.94,0.98,0.91,0.21,0.37,Europe,Western Europe,Developped country
+Kyrgyzstan,2020,5.54,0.51,0.89,0.68,0.91,0.16,0.89,Asia,Central and Eastern Europe,Developping country
+Guatemala,2020,6.4,0.75,0.82,0.71,0.91,-0.04,0.78,Americas,Latin America and Caribbean,Developping country
+Laos,2020,4.89,0.71,0.74,0.49,0.91,0.11,0.64,Asia,Southeastern Asia,Developping country
+Luxembourg,2020,7.24,1.54,0.91,0.99,0.91,-0.01,0.37,Europe,Western Europe,Developped country
+Bahrain,2020,6.23,1.3,0.88,0.84,0.91,0.13,0.74,Asia,Middle East and Northern Africa,Developped country
+Thailand,2020,6,1.01,0.89,0.79,0.91,0.27,0.89,Asia,Southeastern Asia,emerging country
+Bangladesh,2020,4.83,0.56,0.69,0.69,0.9,-0.03,0.66,Asia,Southern Asia,Developping country
+Rwanda,2020,3.31,0.34,0.54,0.57,0.9,0.06,0.18,Africa,Sub-Saharan Africa,Developping country
+Austria,2020,7.29,1.32,0.93,1,0.9,0.09,0.5,Europe,Western Europe,Developped country
+China,2020,5.12,0.99,0.8,0.87,0.9,-0.18,0.75,Asia,Eastern Asia,emerging country
+Malaysia,2020,5.38,1.17,0.82,0.79,0.9,0.12,0.84,Asia,Southeastern Asia,emerging country
+Myanmar,2020,4.31,0.68,0.78,0.5,0.9,0.56,0.65,Asia,Southeastern Asia,Developping country
+Uruguay,2020,6.44,1.07,0.92,0.86,0.89,-0.1,0.64,Americas,Latin America and Caribbean,Developping country
+Mauritius,2020,6.1,1.07,0.91,0.76,0.89,-0.02,0.81,Africa,Sub-Saharan Africa,Developping country
+Portugal,2020,5.91,1.17,0.89,0.98,0.89,-0.22,0.89,Europe,Western Europe,Developped country
+Ireland,2020,7.09,1.45,0.94,0.98,0.89,0.15,0.36,Europe,Western Europe,Developped country
+Paraguay,2020,5.69,0.9,0.9,0.74,0.89,0.01,0.84,Americas,Latin America and Caribbean,Developping country
+India,2020,3.57,0.73,0.59,0.54,0.88,0.06,0.77,Asia,Southern Asia,emerging country
+Panama,2020,6.31,1.1,0.9,0.88,0.88,-0.15,0.85,Americas,Latin America and Caribbean,Developping country
+Estonia,2020,6.02,1.19,0.94,0.84,0.88,-0.11,0.62,Europe,Central and Eastern Europe,Developped country
+Bolivia,2020,5.75,0.73,0.8,0.66,0.88,-0.09,0.82,Americas,Latin America and Caribbean,Developping country
+Kuwait,2020,6.1,1.42,0.85,0.78,0.87,-0.1,0.76,Asia,Middle East and Northern Africa,Developping country
+Honduras,2020,5.95,0.6,0.82,0.79,0.87,0.09,0.8,Americas,Latin America and Caribbean,Developping country
+Indonesia,2020,5.29,0.89,0.81,0.61,0.87,0.52,0.88,Asia,Southeastern Asia,emerging country
+Germany,2020,7.08,1.31,0.9,0.97,0.87,0.08,0.46,Europe,Western Europe,Developped country
+Dominican Republic,2020,5.69,0.98,0.88,0.74,0.87,-0.13,0.76,Americas,Latin America and Caribbean,Developping country
+Nicaragua,2020,6.14,0.62,0.86,0.8,0.86,0.02,0.67,Americas,Latin America and Caribbean,Developping country
+Mozambique,2020,4.62,0.18,0.72,0.32,0.86,0.03,0.68,Africa,Sub-Saharan Africa,Developping country
+Kosovo,2020,6.33,0.84,0.82,0.67,0.86,0.19,0.92,Europe,Central and Eastern Europe,Developping country
+Poland,2020,6.19,1.17,0.87,0.87,0.86,-0.21,0.69,Europe,Central and Eastern Europe,Developped country
+Ecuador,2020,5.93,0.85,0.84,0.84,0.86,-0.13,0.8,Americas,Latin America and Caribbean,Developping country
+Mexico,2020,6.47,1.02,0.84,0.83,0.86,-0.18,0.81,Americas,Latin America and Caribbean,emerging country
+Jamaica,2020,5.89,0.78,0.92,0.79,0.86,-0.13,0.89,Americas,Latin America and Caribbean,Developping country
+Saudi Arabia,2020,6.41,1.33,0.87,0.76,0.85,-0.17,0.68,Asia,Middle East and Northern Africa,Developped country
+United States,2020,6.94,1.37,0.91,0.83,0.84,0.15,0.7,Americas,North America,Developped country
+Romania,2020,6.12,1.12,0.83,0.79,0.84,-0.2,0.93,Europe,Central and Eastern Europe,Developped country
+Sri Lanka,2020,4.33,0.9,0.83,0.79,0.84,0.08,0.86,Asia,Southern Asia,Developping country
+Colombia,2020,6.16,0.93,0.88,0.81,0.84,-0.16,0.87,Americas,Latin America and Caribbean,Developping country
+United Kingdom,2020,7.17,1.27,0.94,0.98,0.84,0.26,0.44,Europe,Western Europe,Developped country
+El Salvador,2020,6.35,0.75,0.81,0.75,0.83,-0.12,0.75,Americas,Latin America and Caribbean,Developping country
+Argentina,2020,5.98,1.03,0.9,0.85,0.83,-0.2,0.84,Americas,Latin America and Caribbean,Developping country
+Tajikistan,2020,5.56,0.47,0.84,0.68,0.83,-0.03,0.59,Asia,Central and Eastern Europe,Developping country
+Kenya,2020,4.58,0.48,0.7,0.54,0.83,0.3,0.83,Africa,Sub-Saharan Africa,Developping country
+Turkmenistan,2020,5.12,1.01,0.96,0.61,0.83,0.19,0.88,Asia,Central and Eastern Europe,Developping country
+France,2020,6.66,1.27,0.94,1.03,0.83,-0.13,0.58,Europe,Western Europe,Developped country
+Peru,2020,5.8,0.92,0.83,0.82,0.83,-0.16,0.89,Americas,Latin America and Caribbean,Developping country
+Tanzania,2020,3.48,0.46,0.69,0.44,0.82,0.11,0.62,Africa,Sub-Saharan Africa,Developping country
+Botswana,2020,3.48,1,0.78,0.49,0.82,-0.25,0.78,Africa,Sub-Saharan Africa,Developping country
+Czech Republic,2020,6.91,1.21,0.91,0.89,0.82,-0.23,0.86,Europe,Central and Eastern Europe,Developped country
+Belgium,2020,6.86,1.3,0.91,0.96,0.81,-0.08,0.61,Europe,Western Europe,Developped country
+Kazakhstan,2020,6.06,1.12,0.94,0.7,0.81,-0.07,0.76,Asia,Central and Eastern Europe,Developping country
+Japan,2020,5.87,1.27,0.88,1.07,0.81,-0.25,0.66,Asia,Eastern Asia,Developped country
+Zambia,2020,3.76,0.54,0.7,0.36,0.81,0.08,0.8,Africa,Sub-Saharan Africa,Developping country
+Malawi,2020,3.54,0.18,0.54,0.45,0.8,0.02,0.73,Africa,Sub-Saharan Africa,Developping country
+Georgia,2020,4.67,0.85,0.63,0.69,0.8,-0.23,0.67,Asia,Central and Eastern Europe,Developping country
+Brazil,2020,6.38,0.95,0.9,0.77,0.8,-0.1,0.77,Americas,Latin America and Caribbean,emerging country
+Nepal,2020,5.14,0.44,0.79,0.67,0.8,0.15,0.74,Asia,Southern Asia,Developping country
+Ghana,2020,5.15,0.58,0.73,0.43,0.8,0.09,0.85,Africa,Sub-Saharan Africa,Developping country
+Azerbaijan,2020,5.17,0.99,0.82,0.73,0.79,-0.24,0.55,Asia,Central and Eastern Europe,Developping country
+Albania,2020,4.88,0.91,0.67,0.85,0.78,-0.04,0.9,Europe,Central and Eastern Europe,Developping country
+Cyprus,2020,6.16,1.21,0.81,1.03,0.78,0.04,0.86,Asia,Western Europe,Developped country
+Hong Kong S.A.R. of China,2020,5.51,1.38,0.85,1.14,0.78,0.14,0.42,Asia,Eastern Asia,Developped country
+Libya,2020,5.49,1.02,0.83,0.62,0.77,-0.09,0.67,Africa,Middle East and Northern Africa,Developping country
+Taiwan Province of China,2020,6.46,1.33,0.89,0.88,0.77,-0.07,0.73,Asia,Eastern Asia,Developped country
+Morocco,2020,5.1,0.76,0.59,0.75,0.77,-0.24,0.82,Africa,Middle East and Northern Africa,Developping country
+Namibia,2020,4.57,0.84,0.85,0.41,0.77,-0.19,0.85,Africa,Sub-Saharan Africa,Developping country
+Cameroon,2020,5.09,0.5,0.7,0.27,0.76,0,0.85,Africa,Sub-Saharan Africa,Developping country
+Niger,2020,4.91,0.11,0.62,0.3,0.76,0.01,0.72,Africa,Sub-Saharan Africa,Developping country
+Nigeria,2020,4.72,0.65,0.74,0.17,0.76,0.03,0.86,Africa,Sub-Saharan Africa,Developping country
+South Africa,2020,4.81,0.9,0.85,0.41,0.76,-0.11,0.84,Africa,Sub-Saharan Africa,emerging country
+Spain,2020,6.4,1.23,0.92,1.05,0.75,-0.05,0.77,Europe,Western Europe,Developped country
+Jordan,2020,4.63,0.79,0.8,0.78,0.75,-0.16,0.7,Asia,Middle East and Northern Africa,Developping country
+Slovakia,2020,6.28,1.19,0.92,0.85,0.75,-0.12,0.92,Europe,Central and Eastern Europe,Developped country
+Israel,2020,7.13,1.22,0.91,1.01,0.75,0.1,0.78,Asia,Middle East and Northern Africa,Developped country
+Lithuania,2020,6.22,1.19,0.93,0.8,0.75,-0.22,0.81,Europe,Central and Eastern Europe,Developped country
+Chile,2020,6.23,1.1,0.88,0.89,0.75,-0.07,0.84,Americas,Latin America and Caribbean,Developping country
+Bulgaria,2020,5.1,1.05,0.94,0.78,0.75,-0.14,0.94,Europe,Central and Eastern Europe,Developping country
+Ethiopia,2020,4.19,0.32,0.74,0.48,0.74,0.04,0.75,Africa,Sub-Saharan Africa,Developping country
+North Macedonia,2020,5.16,0.93,0.82,0.8,0.74,-0.02,0.9,Europe,Central and Eastern Europe,Developping country
+Lesotho,2020,3.65,0.45,0.78,0.1,0.74,-0.15,0.86,Africa,Sub-Saharan Africa,Developping country
+Liberia,2020,4.56,0.17,0.71,0.39,0.74,0.04,0.86,Africa,Sub-Saharan Africa,Developping country
+Benin,2020,5.22,0.37,0.47,0.33,0.74,0,0.74,Africa,Sub-Saharan Africa,Developping country
+Pakistan,2020,5.69,0.62,0.69,0.47,0.74,0.05,0.75,Asia,Southern Asia,Developping country
+Uganda,2020,4.43,0.31,0.77,0.38,0.73,0.1,0.84,Africa,Sub-Saharan Africa,Developping country
+Russia,2020,5.55,1.13,0.9,0.68,0.73,-0.15,0.87,Europe,Central and Eastern Europe,emerging country
+Ivory Coast,2020,5.23,0.54,0.66,0.15,0.73,-0.04,0.79,Africa,Sub-Saharan Africa,Developping country
+Serbia,2020,5.78,0.99,0.88,0.83,0.73,-0.07,0.84,Europe,Central and Eastern Europe,Developping country
+Moldova,2020,5.61,0.71,0.84,0.71,0.72,-0.04,0.91,Europe,Central and Eastern Europe,Developping country
+Hungary,2020,6,1.16,0.92,0.81,0.72,-0.19,0.89,Europe,Central and Eastern Europe,Developped country
+Croatia,2020,5.51,1.11,0.88,0.9,0.72,-0.13,0.92,Europe,Central and Eastern Europe,Developped country
+Sierra Leone,2020,3.93,0.24,0.64,0.2,0.72,0.09,0.86,Africa,Sub-Saharan Africa,Developping country
+Armenia,2020,4.68,0.81,0.76,0.78,0.71,-0.14,0.77,Asia,Central and Eastern Europe,Developping country
+Mali,2020,4.73,0.35,0.73,0.23,0.71,-0.04,0.84,Africa,Sub-Saharan Africa,Developping country
+Zimbabwe,2020,3.3,0.43,0.76,0.38,0.71,-0.07,0.81,Africa,Sub-Saharan Africa,Developping country
+Egypt,2020,4.15,0.88,0.74,0.6,0.71,-0.2,0.79,Africa,Middle East and Northern Africa,Developping country
+Guinea,2020,4.95,0.39,0.64,0.33,0.71,0.08,0.76,Africa,Sub-Saharan Africa,Developping country
+Gabon,2020,4.83,0.99,0.79,0.52,0.71,-0.22,0.85,Africa,Sub-Saharan Africa,Developping country
+Mongolia,2020,5.46,0.9,0.94,0.62,0.69,0.1,0.86,Asia,Eastern Asia,Developping country
+Senegal,2020,4.98,0.5,0.72,0.52,0.69,-0.05,0.81,Africa,Sub-Saharan Africa,Developping country
+Latvia,2020,5.95,1.14,0.92,0.78,0.67,-0.19,0.8,Europe,Central and Eastern Europe,Developped country
+Burkina Faso,2020,4.77,0.3,0.71,0.31,0.67,-0.02,0.74,Africa,Sub-Saharan Africa,Developping country
+Italy,2020,6.39,1.24,0.89,1.02,0.67,-0.04,0.87,Europe,Western Europe,Developped country
+Ukraine,2020,4.56,0.78,0.88,0.7,0.66,-0.03,0.92,Europe,Central and Eastern Europe,Developping country
+Bosnia and Herzegovina,2020,5.67,0.92,0.83,0.81,0.65,0.1,0.93,Europe,Central and Eastern Europe,Developping country
+Montenegro,2020,5.55,1.01,0.86,0.84,0.65,-0.08,0.78,Europe,Central and Eastern Europe,Developping country
+Togo,2020,4.19,0.27,0.55,0.34,0.65,0,0.76,Africa,Sub-Saharan Africa,Developping country
+Iran,2020,4.67,1.03,0.7,0.75,0.65,0.12,0.72,Asia,Middle East and Northern Africa,Developping country
+Palestinian Territories,2020,4.55,0.59,0.83,0.61,0.65,-0.16,0.82,Asia,Middle East and Northern Africa,Developping country
+Belarus,2020,5.54,1.02,0.91,0.75,0.64,-0.17,0.64,Europe,Central and Eastern Europe,Developping country
+Iraq,2020,4.79,0.98,0.75,0.53,0.63,-0.07,0.82,Asia,Middle East and Northern Africa,Developping country
+Venezuela,2020,5.05,0.77,0.89,0.77,0.62,-0.17,0.84,Americas,Latin America and Caribbean,Developping country
+South Korea,2020,5.87,1.25,0.8,1.02,0.61,-0.04,0.79,Asia,Eastern Asia,Developped country
+Turkey,2020,5.13,1.13,0.83,0.78,0.61,-0.17,0.75,Asia,Middle East and Northern Africa,emerging country
+Yemen,2020,3.53,0.39,0.82,0.42,0.6,-0.16,0.8,Asia,Middle East and Northern Africa,Developping country
+Tunisia,2020,4.39,0.87,0.69,0.78,0.59,-0.22,0.87,Africa,Middle East and Northern Africa,Developping country
+Chad,2020,4.42,0.3,0.63,0.11,0.59,0.02,0.8,Africa,Sub-Saharan Africa,Developping country
+Madagascar,2020,4.17,0.24,0.67,0.5,0.56,-0.01,0.82,Africa,Sub-Saharan Africa,Developping country
+Mauritania,2020,4.38,0.54,0.79,0.43,0.55,-0.11,0.75,Africa,Sub-Saharan Africa,Developping country
+Lebanon,2020,4.77,0.89,0.82,0.79,0.55,-0.06,0.9,Asia,Middle East and Northern Africa,Developping country
+Greece,2020,5.52,1.13,0.81,0.98,0.54,-0.3,0.86,Europe,Western Europe,Developped country
+Algeria,2020,5.01,0.94,0.8,0.75,0.47,-0.12,0.74,Africa,Middle East and Northern Africa,Developping country
+Afghanistan,2020,2.57,0.3,0.47,0.27,0.4,-0.1,0.93,Asia,Southern Asia,Developping country
+Uzbekistan,2021,6.18,0.77,0.92,0.53,0.97,0.31,0.52,Asia,Central and Eastern Europe,Developping country
+Norway,2021,7.39,1.54,0.95,0.78,0.96,0.09,0.27,Europe,Western Europe,Developped country
+Cambodia,2021,4.83,0.6,0.77,0.43,0.96,0.03,0.84,Asia,Southeastern Asia,Developping country
+Iceland,2021,7.55,1.48,0.98,0.77,0.96,0.16,0.67,Europe,Western Europe,Developped country
+Finland,2021,7.84,1.45,0.95,0.74,0.95,-0.1,0.19,Europe,Western Europe,Developped country
+Slovenia,2021,6.46,1.36,0.95,0.72,0.95,-0.1,0.81,Europe,Central and Eastern Europe,Developped country
+Denmark,2021,7.62,1.5,0.95,0.76,0.95,0.03,0.18,Europe,Western Europe,Developped country
+Sweden,2021,7.36,1.48,0.93,0.76,0.95,0.09,0.24,Europe,Western Europe,Developped country
+Vietnam,2021,5.41,0.82,0.85,0.62,0.94,-0.1,0.8,Asia,Southeastern Asia,Developping country
+Kyrgyzstan,2021,5.74,0.67,0.89,0.5,0.94,0.12,0.91,Asia,Central and Eastern Europe,Developping country
+Costa Rica,2021,7.07,1.13,0.89,0.72,0.93,-0.13,0.81,Americas,Latin America and Caribbean,Developping country
+New Zealand,2021,7.28,1.4,0.95,0.79,0.93,0.13,0.24,Oceania,Australia and New Zealand,Developped country
+Singapore,2021,6.38,1.7,0.92,0.9,0.93,-0.02,0.08,Asia,Southeastern Asia,Developped country
+Malta,2021,6.6,1.41,0.93,0.75,0.93,0.13,0.65,Europe,Western Europe,Developped country
+Bahrain,2021,6.65,1.41,0.86,0.66,0.93,0.09,0.72,Asia,Middle East and Northern Africa,Developped country
+Switzerland,2021,7.57,1.57,0.94,0.82,0.92,0.03,0.29,Europe,Western Europe,Developped country
+Philippines,2021,5.88,0.85,0.83,0.43,0.92,-0.1,0.74,Asia,Southeastern Asia,emerging country
+Canada,2021,7.1,1.45,0.93,0.8,0.92,0.09,0.42,Americas,North America,Developped country
+Australia,2021,7.18,1.45,0.94,0.8,0.91,0.16,0.44,Oceania,Australia and New Zealand,Developped country
+Netherlands,2021,7.46,1.5,0.94,0.75,0.91,0.18,0.34,Europe,Western Europe,Developped country
+Laos,2021,5.03,0.81,0.73,0.33,0.91,0.12,0.66,Asia,Southeastern Asia,Developping country
+Estonia,2021,6.19,1.34,0.94,0.64,0.91,-0.11,0.53,Europe,Central and Eastern Europe,Developped country
+Austria,2021,7.27,1.49,0.93,0.78,0.91,0.04,0.48,Europe,Western Europe,Developped country
+Luxembourg,2021,7.32,1.75,0.91,0.76,0.91,-0.03,0.39,Europe,Western Europe,Developped country
+Guatemala,2021,6.44,0.85,0.81,0.52,0.91,-0.04,0.78,Americas,Latin America and Caribbean,Developping country
+China,2021,5.34,1.06,0.81,0.67,0.9,-0.15,0.76,Asia,Eastern Asia,emerging country
+Rwanda,2021,3.42,0.36,0.55,0.41,0.9,0.06,0.17,Africa,Sub-Saharan Africa,Developping country
+Uruguay,2021,6.43,1.16,0.93,0.65,0.9,-0.09,0.59,Americas,Latin America and Caribbean,Developping country
+Malaysia,2021,5.38,1.26,0.82,0.59,0.9,0.13,0.84,Asia,Southeastern Asia,emerging country
+India,2021,3.82,0.74,0.6,0.38,0.89,0.09,0.77,Asia,Southern Asia,emerging country
+Portugal,2021,5.93,1.32,0.88,0.76,0.89,-0.24,0.89,Europe,Western Europe,Developped country
+Jamaica,2021,6.31,0.89,0.88,0.6,0.89,-0.14,0.88,Americas,Latin America and Caribbean,Developping country
+El Salvador,2021,6.06,0.85,0.76,0.57,0.89,-0.11,0.69,Americas,Latin America and Caribbean,Developping country
+Thailand,2021,5.99,1.11,0.89,0.6,0.88,0.29,0.9,Asia,Southeastern Asia,emerging country
+Mozambique,2021,4.79,0.18,0.74,0.2,0.88,0.06,0.68,Africa,Sub-Saharan Africa,Developping country
+Ireland,2021,7.09,1.64,0.95,0.75,0.88,0.08,0.36,Europe,Western Europe,Developped country
+Saudi Arabia,2021,6.49,1.44,0.89,0.57,0.88,-0.15,0.68,Asia,Middle East and Northern Africa,Developped country
+Turkmenistan,2021,5.07,1.05,0.98,0.44,0.88,0.27,0.89,Asia,Central and Eastern Europe,Developping country
+Bangladesh,2021,5.03,0.64,0.69,0.51,0.88,-0.04,0.68,Asia,Southern Asia,Developping country
+Paraguay,2021,5.65,0.98,0.89,0.55,0.88,0.03,0.88,Americas,Latin America and Caribbean,Developping country
+Myanmar,2021,4.43,0.67,0.78,0.34,0.88,0.51,0.66,Asia,Southeastern Asia,Developping country
+Germany,2021,7.16,1.48,0.9,0.76,0.88,0.01,0.46,Europe,Western Europe,Developped country
+Bolivia,2021,5.72,0.84,0.81,0.49,0.88,-0.08,0.84,Americas,Latin America and Caribbean,Developping country
+Indonesia,2021,5.35,0.95,0.81,0.43,0.87,0.54,0.87,Asia,Southeastern Asia,emerging country
+Panama,2021,6.18,1.3,0.9,0.67,0.87,-0.17,0.86,Americas,Latin America and Caribbean,Developping country
+Kosovo,2021,6.37,0.94,0.82,0.48,0.87,0.26,0.92,Europe,Central and Eastern Europe,Developping country
+Kuwait,2021,6.11,1.46,0.84,0.58,0.87,-0.1,0.74,Asia,Middle East and Northern Africa,Developping country
+Mauritius,2021,6.05,1.18,0.91,0.57,0.87,-0.05,0.79,Africa,Sub-Saharan Africa,Developping country
+Mexico,2021,6.32,1.13,0.83,0.63,0.86,-0.15,0.8,Americas,Latin America and Caribbean,emerging country
+Dominican Republic,2021,5.55,1.11,0.85,0.56,0.86,-0.13,0.71,Americas,Latin America and Caribbean,Developping country
+United Kingdom,2021,7.06,1.42,0.93,0.76,0.86,0.23,0.46,Europe,Western Europe,Developped country
+Czech Republic,2021,6.97,1.37,0.95,0.7,0.86,-0.21,0.87,Europe,Central and Eastern Europe,Developped country
+Honduras,2021,5.92,0.7,0.81,0.59,0.86,0.08,0.81,Americas,Latin America and Caribbean,Developping country
+Kazakhstan,2021,6.15,1.23,0.95,0.53,0.85,-0.07,0.73,Asia,Central and Eastern Europe,Developping country
+Romania,2021,6.14,1.28,0.83,0.6,0.85,-0.22,0.94,Europe,Central and Eastern Europe,Developped country
+Ecuador,2021,5.76,0.94,0.82,0.64,0.84,-0.12,0.84,Americas,Latin America and Caribbean,Developping country
+Poland,2021,6.17,1.31,0.9,0.67,0.84,-0.17,0.74,Europe,Central and Eastern Europe,Developped country
+Sri Lanka,2021,4.33,0.99,0.83,0.59,0.84,0.08,0.86,Asia,Southern Asia,Developping country
+United States,2021,6.95,1.53,0.92,0.62,0.84,0.1,0.7,Americas,North America,Developped country
+Colombia,2021,6.01,1.02,0.85,0.62,0.84,-0.14,0.84,Americas,Latin America and Caribbean,Developping country
+Nicaragua,2021,5.97,0.69,0.86,0.6,0.84,0.02,0.66,Americas,Latin America and Caribbean,Developping country
+Tanzania,2021,3.62,0.43,0.7,0.3,0.83,0.18,0.58,Africa,Sub-Saharan Africa,Developping country
+Tajikistan,2021,5.47,0.51,0.86,0.5,0.83,-0.06,0.55,Asia,Central and Eastern Europe,Developping country
+Argentina,2021,5.93,1.16,0.9,0.65,0.83,-0.18,0.83,Americas,Latin America and Caribbean,Developping country
+Armenia,2021,5.28,1,0.8,0.59,0.83,-0.17,0.63,Asia,Central and Eastern Europe,Developping country
+Botswana,2021,3.47,1.1,0.78,0.34,0.82,-0.25,0.8,Africa,Sub-Saharan Africa,Developping country
+France,2021,6.69,1.42,0.94,0.8,0.82,-0.15,0.57,Europe,Western Europe,Developped country
+Moldova,2021,5.77,0.99,0.86,0.54,0.82,-0.08,0.92,Europe,Central and Eastern Europe,Developping country
+Peru,2021,5.84,0.99,0.83,0.62,0.82,-0.15,0.89,Americas,Latin America and Caribbean,Developping country
+Azerbaijan,2021,5.17,1.03,0.84,0.54,0.81,-0.22,0.51,Asia,Central and Eastern Europe,Developping country
+Ghana,2021,5.09,0.68,0.73,0.29,0.81,0.12,0.85,Africa,Sub-Saharan Africa,Developping country
+Niger,2021,5.07,0.16,0.64,0.17,0.81,0.02,0.69,Africa,Sub-Saharan Africa,Developping country
+Brazil,2021,6.33,1.03,0.88,0.57,0.8,-0.07,0.76,Americas,Latin America and Caribbean,emerging country
+Israel,2021,7.16,1.38,0.94,0.79,0.8,0.03,0.75,Asia,Middle East and Northern Africa,Developped country
+Japan,2021,5.94,1.39,0.88,0.84,0.8,-0.26,0.64,Asia,Eastern Asia,Developped country
+Bulgaria,2021,5.27,1.18,0.93,0.58,0.79,-0.1,0.93,Europe,Central and Eastern Europe,Developping country
+Albania,2021,5.12,1.01,0.7,0.65,0.79,-0.03,0.9,Europe,Central and Eastern Europe,Developping country
+Taiwan Province of China,2021,6.58,1.48,0.9,0.67,0.78,-0.07,0.72,Asia,Eastern Asia,Developped country
+Belgium,2021,6.83,1.46,0.91,0.75,0.78,-0.15,0.65,Europe,Western Europe,Developped country
+Georgia,2021,4.89,1.03,0.67,0.5,0.78,-0.24,0.66,Asia,Central and Eastern Europe,Developping country
+Nepal,2021,5.27,0.52,0.77,0.5,0.78,0.15,0.73,Asia,Southern Asia,Developping country
+Zambia,2021,4.07,0.53,0.71,0.23,0.78,0.06,0.82,Africa,Sub-Saharan Africa,Developping country
+Malawi,2021,3.6,0.11,0.54,0.3,0.78,0.04,0.73,Africa,Sub-Saharan Africa,Developping country
+Kenya,2021,4.61,0.6,0.69,0.39,0.78,0.29,0.83,Africa,Sub-Saharan Africa,Developping country
+Serbia,2021,6.08,1.1,0.87,0.63,0.78,0,0.84,Europe,Central and Eastern Europe,Developping country
+Morocco,2021,4.92,0.79,0.56,0.56,0.77,-0.24,0.8,Africa,Middle East and Northern Africa,Developping country
+Lithuania,2021,6.26,1.35,0.94,0.61,0.77,-0.2,0.83,Europe,Central and Eastern Europe,Developped country
+Libya,2021,5.41,1.04,0.83,0.44,0.77,-0.09,0.67,Africa,Middle East and Northern Africa,Developping country
+Slovakia,2021,6.33,1.3,0.94,0.65,0.77,-0.12,0.91,Europe,Central and Eastern Europe,Developped country
+Cyprus,2021,6.22,1.38,0.8,0.8,0.76,-0.02,0.84,Asia,Western Europe,Developped country
+Spain,2021,6.49,1.38,0.93,0.83,0.76,-0.08,0.75,Europe,Western Europe,Developped country
+Benin,2021,5.05,0.51,0.49,0.2,0.76,-0.03,0.66,Africa,Sub-Saharan Africa,Developping country
+Hungary,2021,5.99,1.3,0.94,0.62,0.76,-0.19,0.88,Europe,Central and Eastern Europe,Developped country
+Jordan,2021,4.4,0.89,0.77,0.58,0.76,-0.17,0.71,Asia,Middle East and Northern Africa,Developping country
+Croatia,2021,5.88,1.25,0.92,0.7,0.75,-0.12,0.94,Europe,Central and Eastern Europe,Developped country
+Ethiopia,2021,4.28,0.37,0.76,0.33,0.75,0.08,0.76,Africa,Sub-Saharan Africa,Developping country
+North Macedonia,2021,5.1,1.07,0.81,0.54,0.75,0.04,0.91,Europe,Central and Eastern Europe,Developping country
+South Africa,2021,4.96,0.97,0.86,0.27,0.75,-0.07,0.86,Africa,Sub-Saharan Africa,emerging country
+Egypt,2021,4.28,0.95,0.75,0.43,0.75,-0.18,0.8,Africa,Middle East and Northern Africa,Developping country
+Chile,2021,6.17,1.2,0.88,0.68,0.74,-0.04,0.83,Americas,Latin America and Caribbean,Developping country
+Ivory Coast,2021,5.31,0.67,0.64,0.05,0.74,-0.02,0.79,Africa,Sub-Saharan Africa,Developping country
+Nigeria,2021,4.76,0.66,0.74,0.05,0.74,0.04,0.88,Africa,Sub-Saharan Africa,Developping country
+Liberia,2021,4.63,0.23,0.72,0.25,0.74,0.05,0.85,Africa,Sub-Saharan Africa,Developping country
+Cameroon,2021,5.14,0.54,0.71,0.16,0.73,0.03,0.85,Africa,Sub-Saharan Africa,Developping country
+Gabon,2021,4.85,1.04,0.78,0.36,0.73,-0.2,0.84,Africa,Sub-Saharan Africa,Developping country
+Pakistan,2021,4.93,0.64,0.65,0.32,0.73,0.1,0.79,Asia,Southern Asia,Developping country
+Ukraine,2021,4.88,0.98,0.89,0.52,0.72,-0.01,0.92,Europe,Central and Eastern Europe,Developping country
+Namibia,2021,4.57,0.88,0.82,0.26,0.72,-0.15,0.85,Africa,Sub-Saharan Africa,Developping country
+Russia,2021,5.48,1.24,0.9,0.51,0.72,-0.11,0.85,Europe,Central and Eastern Europe,emerging country
+Hong Kong S.A.R. of China,2021,5.48,1.53,0.84,0.89,0.72,0.07,0.4,Asia,Eastern Asia,Developped country
+Sierra Leone,2021,3.85,0.28,0.63,0.1,0.72,0.08,0.87,Africa,Sub-Saharan Africa,Developping country
+Latvia,2021,6.03,1.29,0.93,0.59,0.72,-0.16,0.8,Europe,Central and Eastern Europe,Developped country
+Lesotho,2021,3.51,0.45,0.79,0.01,0.72,-0.13,0.92,Africa,Sub-Saharan Africa,Developping country
+Uganda,2021,4.64,0.36,0.78,0.24,0.71,0.12,0.86,Africa,Sub-Saharan Africa,Developping country
+Mongolia,2021,5.68,0.97,0.94,0.44,0.71,0.12,0.86,Asia,Eastern Asia,Developping country
+Montenegro,2021,5.58,1.16,0.86,0.64,0.71,-0.03,0.81,Europe,Central and Eastern Europe,Developping country
+Bosnia and Herzegovina,2021,5.81,1.03,0.87,0.62,0.71,0.11,0.93,Europe,Central and Eastern Europe,Developping country
+Guinea,2021,4.98,0.42,0.64,0.21,0.7,0.1,0.77,Africa,Sub-Saharan Africa,Developping country
+Mali,2021,4.72,0.39,0.72,0.11,0.7,-0.04,0.83,Africa,Sub-Saharan Africa,Developping country
+Senegal,2021,5.13,0.52,0.71,0.36,0.7,-0.05,0.8,Africa,Sub-Saharan Africa,Developping country
+Burkina Faso,2021,4.83,0.36,0.67,0.18,0.7,-0.01,0.75,Africa,Sub-Saharan Africa,Developping country
+Italy,2021,6.48,1.39,0.88,0.8,0.69,-0.08,0.87,Europe,Western Europe,Developped country
+Zimbabwe,2021,3.15,0.46,0.75,0.24,0.68,-0.05,0.82,Africa,Sub-Saharan Africa,Developping country
+South Korea,2021,5.85,1.4,0.8,0.8,0.67,-0.08,0.73,Asia,Eastern Asia,Developped country
+Tunisia,2021,4.6,0.92,0.69,0.59,0.66,-0.2,0.87,Africa,Middle East and Northern Africa,Developping country
+Palestinian Territories,2021,4.52,0.65,0.83,0.43,0.65,-0.16,0.82,Asia,Middle East and Northern Africa,Developping country
+Belarus,2021,5.53,1.12,0.91,0.56,0.65,-0.18,0.63,Europe,Central and Eastern Europe,Developping country
+Iraq,2021,4.85,0.91,0.75,0.38,0.63,-0.05,0.88,Asia,Middle East and Northern Africa,Developping country
+Togo,2021,4.11,0.25,0.57,0.2,0.62,0.03,0.77,Africa,Sub-Saharan Africa,Developping country
+Venezuela,2021,4.89,0.85,0.86,0.57,0.62,-0.17,0.83,Americas,Latin America and Caribbean,Developping country
+Iran,2021,4.72,1.03,0.71,0.56,0.61,0.22,0.71,Asia,Middle East and Northern Africa,Developping country
+Yemen,2021,3.66,0.33,0.83,0.27,0.6,-0.15,0.8,Asia,Middle East and Northern Africa,Developping country
+Greece,2021,5.72,1.27,0.82,0.76,0.58,-0.29,0.82,Europe,Western Europe,Developped country
+Chad,2021,4.36,0.26,0.62,0,0.58,0.04,0.81,Africa,Sub-Saharan Africa,Developping country
+Turkey,2021,4.95,1.26,0.82,0.59,0.58,-0.14,0.78,Asia,Middle East and Northern Africa,emerging country
+Mauritania,2021,4.23,0.67,0.8,0.27,0.56,-0.11,0.73,Africa,Sub-Saharan Africa,Developping country
+Madagascar,2021,4.21,0.27,0.69,0.34,0.55,-0.01,0.8,Africa,Sub-Saharan Africa,Developping country
+Lebanon,2021,4.58,1.05,0.85,0.6,0.53,-0.07,0.9,Asia,Middle East and Northern Africa,Developping country
+Algeria,2021,4.89,0.95,0.8,0.55,0.48,-0.07,0.75,Africa,Middle East and Northern Africa,Developping country
+Afghanistan,2021,2.52,0.37,0.46,0.13,0.38,-0.1,0.92,Asia,Southern Asia,Developping country
+Cambodia,2022,4.64,1.02,0.73,0.51,0.74,0.17,0.07,Asia,Southeastern Asia,Developping country
+Finland,2022,7.82,1.89,1.26,0.78,0.74,0.11,0.53,Europe,Western Europe,Developped country
+Norway,2022,7.37,2,1.24,0.79,0.73,0.22,0.47,Europe,Western Europe,Developped country
+Sweden,2022,7.38,1.92,1.2,0.8,0.72,0.22,0.51,Europe,Western Europe,Developped country
+Denmark,2022,7.64,1.95,1.24,0.78,0.72,0.19,0.53,Europe,Western Europe,Developped country
+Iceland,2022,7.56,1.94,1.32,0.8,0.72,0.27,0.19,Europe,Western Europe,Developped country
+Uzbekistan,2022,6.06,1.22,1.09,0.6,0.72,0.28,0.24,Asia,Central and Eastern Europe,Developping country
+Vietnam,2022,5.49,1.25,0.93,0.61,0.71,0.14,0.11,Asia,Southeastern Asia,Developping country
+Luxembourg,2022,7.4,2.21,1.16,0.79,0.7,0.12,0.39,Europe,Western Europe,Developped country
+Bahrain,2022,6.65,1.85,1.03,0.63,0.69,0.2,0.16,Asia,Middle East and Northern Africa,Developped country
+Kyrgyzstan,2022,5.83,1.07,1.11,0.64,0.69,0.21,0.03,Asia,Central and Eastern Europe,Developping country
+Estonia,2022,6.34,1.79,1.23,0.73,0.69,0.12,0.33,Europe,Central and Eastern Europe,Developped country
+Slovenia,2022,6.63,1.81,1.25,0.77,0.69,0.12,0.12,Europe,Central and Eastern Europe,Developped country
+New Zealand,2022,7.2,1.85,1.24,0.75,0.68,0.25,0.48,Oceania,Australia and New Zealand,Developped country
+Malta,2022,6.45,1.84,1.17,0.79,0.68,0.17,0.17,Europe,Western Europe,Developped country
+Laos,2022,5.14,1.24,0.65,0.48,0.68,0.2,0.18,Asia,Southeastern Asia,Developping country
+Philippines,2022,5.9,1.27,0.91,0.51,0.68,0.11,0.14,Asia,Southeastern Asia,emerging country
+Switzerland,2022,7.51,2.03,1.23,0.82,0.68,0.15,0.46,Europe,Western Europe,Developped country
+Australia,2022,7.16,1.9,1.2,0.77,0.68,0.26,0.34,Oceania,Australia and New Zealand,Developped country
+Singapore,2022,6.48,2.15,1.13,0.85,0.67,0.16,0.59,Asia,Southeastern Asia,Developped country
+El Salvador,2022,6.12,1.27,0.77,0.61,0.67,0.09,0.21,Americas,Latin America and Caribbean,Developping country
+Uruguay,2022,6.47,1.62,1.18,0.67,0.67,0.1,0.27,Americas,Latin America and Caribbean,Developping country
+Guatemala,2022,6.26,1.27,0.83,0.52,0.66,0.11,0.12,Americas,Latin America and Caribbean,Developping country
+Costa Rica,2022,6.58,1.58,1.05,0.74,0.66,0.09,0.1,Americas,Latin America and Caribbean,Developping country
+Czech Republic,2022,6.92,1.82,1.26,0.72,0.66,0.16,0.05,Europe,Central and Eastern Europe,Developped country
+Canada,2022,7.03,1.89,1.19,0.78,0.66,0.22,0.37,Americas,North America,Developped country
+China,2022,5.59,1.51,0.96,0.71,0.66,0.1,0.14,Asia,Eastern Asia,emerging country
+Portugal,2022,6.02,1.76,1.08,0.78,0.66,0.02,0.04,Europe,Western Europe,Developped country
+Malaysia,2022,5.71,1.689,0.94,0.62,0.65,0.21,0.13,Asia,Southeastern Asia,emerging country
+Netherlands,2022,7.42,1.95,1.21,0.79,0.65,0.27,0.42,Europe,Western Europe,Developped country
+Saudi Arabia,2022,6.52,1.87,1.09,0.58,0.65,0.08,0.18,Asia,Middle East and Northern Africa,Developped country
+Turkmenistan,2022,5.47,1.48,1.32,0.52,0.65,0.31,0.03,Asia,Central and Eastern Europe,Developping country
+India,2022,3.78,1.17,0.38,0.47,0.65,0.2,0.12,Asia,Southern Asia,emerging country
+Paraguay,2022,5.58,1.41,1.13,0.62,0.63,0.17,0.06,Americas,Latin America and Caribbean,Developping country
+Ireland,2022,7.04,2.13,1.17,0.78,0.63,0.19,0.41,Europe,Western Europe,Developped country
+Bolivia,2022,5.6,1.26,0.88,0.56,0.63,0.11,0.06,Americas,Latin America and Caribbean,Developping country
+Austria,2022,7.16,1.93,1.17,0.77,0.62,0.19,0.33,Europe,Western Europe,Developped country
+Bangladesh,2022,5.16,1.06,0.61,0.58,0.62,0.13,0.19,Asia,Southern Asia,Developping country
+Mexico,2022,6.13,1.55,0.89,0.62,0.62,0.09,0.12,Americas,Latin America and Caribbean,emerging country
+Rwanda,2022,3.27,0.79,0.13,0.46,0.62,0.19,0.54,Africa,Sub-Saharan Africa,Developping country
+Indonesia,2022,5.24,1.38,0.88,0.54,0.62,0.47,0.05,Asia,Southeastern Asia,emerging country
+Nicaragua,2022,6.17,1.11,1.03,0.62,0.62,0.17,0.21,Americas,Latin America and Caribbean,Developping country
+Kuwait,2022,6.11,1.9,0.98,0.74,0.62,0.09,0.15,Asia,Middle East and Northern Africa,Developping country
+Thailand,2022,5.89,1.54,1.1,0.7,0.62,0.32,0.03,Asia,Southeastern Asia,emerging country
+Dominican Republic,2022,5.74,1.54,1,0.58,0.61,0.08,0.18,Americas,Latin America and Caribbean,Developping country
+Romania,2022,6.48,1.72,1.01,0.66,0.61,0.04,0.01,Europe,Central and Eastern Europe,Developped country
+Azerbaijan,2022,5.17,1.46,1.09,0.56,0.6,0.02,0.34,Asia,Central and Eastern Europe,Developping country
+Kosovo,2022,6.46,1.36,0.95,0.57,0.6,0.31,0.04,Europe,Central and Eastern Europe,Developping country
+United Kingdom,2022,6.94,1.86,1.14,0.75,0.6,0.29,0.33,Europe,Western Europe,Developped country
+Mozambique,2022,5.05,0.58,0.66,0.19,0.59,0.19,0.2,Africa,Sub-Saharan Africa,Developping country
+Panama,2022,6.31,1.72,1.11,0.71,0.59,0.05,0.05,Americas,Latin America and Caribbean,Developping country
+Mauritius,2022,6.07,1.59,1.12,0.57,0.59,0.13,0.11,Africa,Sub-Saharan Africa,Developping country
+Germany,2022,7.03,1.92,1.09,0.78,0.59,0.16,0.36,Europe,Western Europe,Developped country
+Kazakhstan,2022,6.23,1.67,1.22,0.61,0.58,0.13,0.16,Asia,Central and Eastern Europe,Developping country
+Honduras,2022,6.02,1.11,0.89,0.56,0.58,0.2,0.08,Americas,Latin America and Caribbean,Developping country
+Tanzania,2022,3.7,0.85,0.6,0.43,0.58,0.25,0.27,Africa,Sub-Saharan Africa,Developping country
+United States,2022,6.98,1.98,1.18,0.63,0.57,0.22,0.18,Americas,North America,Developped country
+Tajikistan,2022,5.38,0.97,1.01,0.52,0.57,0.12,0.3,Asia,Central and Eastern Europe,Developping country
+Niger,2022,5,0.57,0.56,0.33,0.57,0.17,0.15,Africa,Sub-Saharan Africa,Developping country
+Botswana,2022,3.47,1.5,0.82,0.28,0.57,0.01,0.1,Africa,Sub-Saharan Africa,Developping country
+Israel,2022,7.36,1.83,1.22,0.82,0.57,0.16,0.14,Asia,Middle East and Northern Africa,Developped country
+France,2022,6.69,1.86,1.22,0.81,0.57,0.07,0.27,Europe,Western Europe,Developped country
+Jamaica,2022,5.85,1.3,1.05,0.65,0.57,0.08,0.05,Americas,Latin America and Caribbean,Developping country
+Ecuador,2022,5.53,1.35,0.88,0.71,0.57,0.08,0.08,Americas,Latin America and Caribbean,Developping country
+Bulgaria,2022,5.37,1.63,1.16,0.64,0.56,0.12,0.02,Europe,Central and Eastern Europe,Developping country
+Moldova,2022,5.86,1.42,1.01,0.6,0.56,0.1,0.03,Europe,Central and Eastern Europe,Developping country
+Armenia,2022,5.4,1.43,0.82,0.67,0.56,0.05,0.21,Asia,Central and Eastern Europe,Developping country
+Argentina,2022,5.97,1.59,1.1,0.66,0.56,0.08,0.09,Americas,Latin America and Caribbean,Developping country
+Brazil,2022,6.29,1.46,1.04,0.62,0.55,0.13,0.13,Americas,Latin America and Caribbean,emerging country
+Serbia,2022,6.18,1.55,1.09,0.66,0.55,0.22,0.09,Europe,Central and Eastern Europe,Developping country
+Colombia,2022,5.78,1.45,0.93,0.72,0.55,0.09,0.08,Americas,Latin America and Caribbean,Developping country
+Peru,2022,5.56,1.4,0.87,0.74,0.55,0.09,0.04,Americas,Latin America and Caribbean,Developping country
+Taiwan Province of China,2022,6.51,1.9,1.1,0.73,0.54,0.08,0.17,Asia,Eastern Asia,Developped country
+Japan,2022,6.04,1.84,1.09,0.87,0.54,0.01,0.22,Asia,Eastern Asia,Developped country
+Croatia,2022,6.13,1.71,1.18,0.71,0.54,0.11,0,Europe,Central and Eastern Europe,Developped country
+Sri Lanka,2022,4.36,1.42,0.93,0.66,0.53,0.15,0.08,Asia,Southern Asia,Developping country
+Zambia,2022,3.76,0.93,0.58,0.31,0.53,0.2,0.08,Africa,Sub-Saharan Africa,Developping country
+Poland,2022,6.12,1.76,1.17,0.71,0.52,0.12,0.14,Europe,Central and Eastern Europe,Developped country
+Nepal,2022,5.38,0.98,0.78,0.5,0.52,0.24,0.13,Asia,Southern Asia,Developping country
+Myanmar,2022,4.39,1.04,0.83,0.49,0.51,0.45,0.19,Asia,Southeastern Asia,Developping country
+Albania,2022,5.2,1.44,0.65,0.72,0.51,0.14,0.03,Europe,Central and Eastern Europe,Developping country
+Georgia,2022,4.97,1.47,0.61,0.6,0.51,0,0.21,Asia,Central and Eastern Europe,Developping country
+Spain,2022,6.48,1.81,1.21,0.81,0.51,0.1,0.15,Europe,Western Europe,Developped country
+Latvia,2022,6.18,1.73,1.22,0.64,0.5,0.08,0.09,Europe,Central and Eastern Europe,Developped country
+Ghana,2022,4.87,1.11,0.6,0.41,0.5,0.23,0.06,Africa,Sub-Saharan Africa,Developping country
+Lithuania,2022,6.45,1.8,1.2,0.66,0.5,0.05,0.08,Europe,Central and Eastern Europe,Developped country
+Senegal,2022,5.05,0.93,0.53,0.45,0.49,0.14,0.08,Africa,Sub-Saharan Africa,Developping country
+Belgium,2022,6.81,1.91,1.11,0.76,0.49,0.05,0.2,Europe,Western Europe,Developped country
+Morocco,2022,5.06,1.21,0.27,0.57,0.49,0.02,0.1,Africa,Middle East and Northern Africa,Developping country
+North Macedonia,2022,5.2,1.51,0.86,0.64,0.49,0.22,0.03,Europe,Central and Eastern Europe,Developping country
+Hungary,2022,6.09,1.75,1.23,0.67,0.49,0.08,0.06,Europe,Central and Eastern Europe,Developped country
+Slovakia,2022,6.39,1.74,1.23,0.71,0.48,0.12,0.03,Europe,Central and Eastern Europe,Developped country
+Benin,2022,4.62,0.93,0.06,0.34,0.48,0.13,0.23,Africa,Sub-Saharan Africa,Developping country
+Libya,2022,5.33,1.48,0.94,0.61,0.48,0.11,0.18,Africa,Middle East and Northern Africa,Developping country
+Malawi,2022,3.75,0.65,0.28,0.39,0.48,0.14,0.16,Africa,Sub-Saharan Africa,Developping country
+Jordan,2022,4.15,1.32,0.72,0.68,0.48,0.06,0.2,Asia,Middle East and Northern Africa,Developping country
+Ukraine,2022,5.08,1.41,1.08,0.58,0.47,0.19,0.02,Europe,Central and Eastern Europe,Developping country
+Ethiopia,2022,4.24,0.79,0.81,0.46,0.47,0.21,0.14,Africa,Sub-Saharan Africa,Developping country
+Egypt,2022,4.29,1.39,0.73,0.55,0.47,0.04,0.25,Africa,Middle East and Northern Africa,Developping country
+Chile,2022,6.17,1.65,1.08,0.75,0.46,0.12,0.07,Americas,Latin America and Caribbean,Developping country
+Montenegro,2022,5.55,1.57,1.02,0.66,0.46,0.14,0.08,Europe,Central and Eastern Europe,Developping country
+Ivory Coast,2022,5.24,1.09,0.44,0.32,0.45,0.15,0.12,Africa,Sub-Saharan Africa,Developping country
+Cyprus,2022,6.22,1.82,0.91,0.82,0.45,0.12,0.06,Asia,Western Europe,Developped country
+Bosnia and Herzegovina,2022,5.77,1.47,1.07,0.67,0.45,0.24,0.01,Europe,Central and Eastern Europe,Developping country
+Pakistan,2022,4.52,1.05,0.41,0.37,0.45,0.18,0.11,Asia,Southern Asia,Developping country
+Nigeria,2022,4.55,1.08,0.73,0.3,0.44,0.18,0.04,Africa,Sub-Saharan Africa,Developping country
+South Africa,2022,5.19,1.43,1.09,0.36,0.44,0.09,0.05,Africa,Sub-Saharan Africa,emerging country
+Kenya,2022,4.54,1.03,0.61,0.4,0.44,0.32,0.08,Africa,Sub-Saharan Africa,Developping country
+Lesotho,2022,3.51,0.84,0.85,0.24,0.42,0.08,0.02,Africa,Sub-Saharan Africa,Developping country
+South Korea,2022,5.94,1.85,0.89,0.84,0.41,0.11,0.18,Asia,Eastern Asia,Developped country
+Italy,2022,6.47,1.83,1.05,0.8,0.41,0.09,0.06,Europe,Western Europe,Developped country
+Liberia,2022,5.12,0.64,0.67,0.31,0.41,0.18,0.08,Africa,Sub-Saharan Africa,Developping country
+Uganda,2022,4.6,0.78,0.88,0.42,0.4,0.22,0.07,Africa,Sub-Saharan Africa,Developping country
+Russia,2022,5.46,1.69,1.1,0.59,0.4,0.12,0.08,Europe,Central and Eastern Europe,emerging country
+Hong Kong S.A.R. of China,2022,5.43,1.96,0.95,0.94,0.4,0.15,0.38,Asia,Eastern Asia,Developped country
+Mongolia,2022,5.76,1.39,1.2,0.47,0.4,0.25,0.06,Asia,Eastern Asia,Developping country
+Cameroon,2022,5.05,0.97,0.67,0.32,0.4,0.15,0.07,Africa,Sub-Saharan Africa,Developping country
+Sierra Leone,2022,3.57,0.69,0.42,0.27,0.39,0.2,0.06,Africa,Sub-Saharan Africa,Developping country
+Namibia,2022,4.46,1.29,0.88,0.35,0.38,0.07,0.07,Africa,Sub-Saharan Africa,Developping country
+Burkina Faso,2022,4.67,0.78,0.57,0.32,0.38,0.19,0.13,Africa,Sub-Saharan Africa,Developping country
+Mali,2022,4.48,0.79,0.48,0.31,0.35,0.13,0.04,Africa,Sub-Saharan Africa,Developping country
+Gabon,2022,4.96,1.46,0.74,0.4,0.34,0.03,0.1,Africa,Sub-Saharan Africa,Developping country
+Belarus,2022,5.82,1.56,1.16,0.63,0.34,0.04,0.28,Europe,Central and Eastern Europe,Developping country
+Palestinian Territories,2022,4.48,1.15,0.96,0.52,0.34,0.07,0.08,Asia,Middle East and Northern Africa,Developping country
+Guinea,2022,4.89,0.85,0.57,0.28,0.33,0.21,0.12,Africa,Sub-Saharan Africa,Developping country
+Yemen,2022,4.2,0.69,1.04,0.38,0.33,0.09,0.1,Asia,Middle East and Northern Africa,Developping country
+Zimbabwe,2022,3,0.95,0.69,0.27,0.33,0.11,0.11,Africa,Sub-Saharan Africa,Developping country
+Iraq,2022,4.94,1.29,0.68,0.55,0.33,0.15,0.05,Asia,Middle East and Northern Africa,Developping country
+Tunisia,2022,4.52,1.35,0.6,0.66,0.32,0.03,0.03,Africa,Middle East and Northern Africa,Developping country
+Mauritania,2022,4.15,1.1,0.87,0.45,0.3,0.09,0.14,Africa,Sub-Saharan Africa,Developping country
+Togo,2022,4.11,0.77,0.32,0.36,0.29,0.17,0.13,Africa,Sub-Saharan Africa,Developping country
+Venezuela,2022,4.93,0,0.97,0.58,0.28,0.23,0.08,Americas,Latin America and Caribbean,Developping country
+Iran,2022,4.89,1.41,0.74,0.64,0.28,0.24,0.15,Asia,Middle East and Northern Africa,Developping country
+Greece,2022,5.95,1.7,0.98,0.77,0.25,0.02,0.11,Europe,Western Europe,Developped country
+Turkey,2022,4.74,1.71,0.87,0.7,0.21,0.09,0.12,Asia,Middle East and Northern Africa,emerging country
+Madagascar,2022,4.34,0.67,0.65,0.38,0.2,0.14,0.15,Africa,Sub-Saharan Africa,Developping country
+Chad,2022,4.25,0.66,0.51,0.23,0.18,0.18,0.08,Africa,Sub-Saharan Africa,Developping country
+Algeria,2022,5.12,1.36,0.97,0.64,0.15,0.11,0.15,Africa,Middle East and Northern Africa,Developping country
+Lebanon,2022,2.96,1.39,0.5,0.63,0.1,0.08,0.03,Asia,Middle East and Northern Africa,Developping country
+Afghanistan,2022,2.4,0.76,0,0.29,0,0.09,0.01,Asia,Southern Asia,Developping country
